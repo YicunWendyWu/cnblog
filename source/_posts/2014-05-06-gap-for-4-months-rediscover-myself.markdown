@@ -17,7 +17,7 @@ categories: Gap
 {% img /images/summer-plan.jpeg 512 %}
 
 曾经的计划控，每个假期都有雄心勃勃的计划，本计划涵盖了从暑假作业到锻炼身体到学习英语到旅游到练琴到不吃零食到用电脑到练字到看书。
-现在的拖延症患者，各种神器比如[any.do](http://www.any.do/),[WorkFlowy](https://workflowy.com/),[Pomotodo](https://chrome.google.com/webstore/detail/pomotodo/algakdpepofkajponmledaldoloboinf?hl=en)，[ColdTurkey](http://getcoldturkey.com/)都无法将我从拖延的深渊中拉上来。
+现在的拖延症患者，各种神器比如[any.do](http://www.any.do/)， [WorkFlowy](https://workflowy.com/)， [Pomotodo](https://chrome.google.com/webstore/detail/pomotodo/algakdpepofkajponmledaldoloboinf?hl=en)，[ColdTurkey](http://getcoldturkey.com/)都无法将我从拖延的深渊中拉上来。
 不变的是计划总是赶不上变化。
 
 {% img /images/letter-to-self.jpeg 512 %}
