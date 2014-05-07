@@ -3,7 +3,7 @@ layout: post
 title: "Gap的四个月之韩日之行"
 date: 2014-05-06 22:44
 comments: true
-categories: 
+categories: Gap
 ---
 
 ##韩国##
