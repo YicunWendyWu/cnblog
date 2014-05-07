@@ -17,13 +17,13 @@ categories:
 还有一个很省心的设计是斑马线。韩国的斑马线大多数都跟汽车道一样有制定的方向。（需要看图片的请猛击[Organized crosswalks](http://www.johnnyjet.com/2012/10/seoul-korea-tour-guide/seoul-south-korea-sept-2012-007-3/)）从此不用再担心跟对面的人进入[活锁]状态(http://en.wikipedia.org/wiki/Live-lock#Livelock)。
 
 ###鱼汤店###
+{% img right https://lh3.googleusercontent.com/-dP0ybruq_gs/UyW4QGy90aI/AAAAAAAAANw/Q14yMxFClYg/s0-I/IMG_20140208_100118.jpg 256 %}
 作为一个语言不通的外国旅客，我在首尔图书馆蹭完网后，肚子咕咕叫地拿着[干明太鱼汤](http://cn.konest.com/contents/food_detail.html?id=1854)去到大概的地址，看到一个很类似的招牌就进去了。进去之后我惊呆了：饭店在饭点的时候里面竟然一个人都没有。于是我心想：没事，反正我有万能的图片，于是就把网页展示给了一个韩国大妈。韩国大妈看过图片之后，给了我一个懂了的眼神，然后让我坐下。然后她一边准备食物，一边和另外几个大妈在愉快地聊天，并且经常发出爽朗的笑声。
 
 上菜的时候，我又惊呆了：上来的是一晚红色的牛肉豆腐锅！说好的鱼汤呢？于是我觉得她们在准备食物的时候干的事是在明爽我这个游客啊。
 
 这顿汤让我意识到了学习当地语言的重要性。
 
-{% img right https://lh3.googleusercontent.com/-dP0ybruq_gs/UyW4QGy90aI/AAAAAAAAANw/Q14yMxFClYg/s0-I/IMG_20140208_100118.jpg 256 %}
 P.S. 第二天我终于喝到了干明太鱼汤，汤的确很不错，不过个人觉得有点偏咸了，也有可能是因为我放太多小菜了。
 
 ###地铁和手机###
@@ -42,11 +42,11 @@ P.S. 第二天我终于喝到了干明太鱼汤，汤的确很不错，不过个
 ###自动售货机###
 说到自动售货机，不得不提到日本大街小巷的自动售货机。从冷饮到热饮到烟，只有你想不到的，没有你买不到的，而且很多还支持IC卡。
 
+{% img right  https://lh4.googleusercontent.com/-6UzHiOLGiRY/UyW4hLqKyXI/AAAAAAAAAOw/5YTFDTEKJkU/s0-I/IMG_20140211_183337.jpg 256 %}
 ###储物柜###
 作为一个7天时间匆忙游了韩国日本的过客，还有一个很提升幸福感的东西就是日本几乎每一个地铁站都有储物柜。从此不用每到一个地方首先去酒店报道。
 
 ###胶囊旅馆###
-{% img right  https://lh4.googleusercontent.com/-6UzHiOLGiRY/UyW4hLqKyXI/AAAAAAAAAOw/5YTFDTEKJkU/s0-I/IMG_20140211_183337.jpg 256 %}
 体验了传说中的胶囊旅馆，果然很神奇。从中我学到了塑料袋真的很吵。在此对被我在早上赶飞机时5点吵醒的朋友们表示抱歉。然后其实旅馆比照片好看多了。
 
 ##总结##
