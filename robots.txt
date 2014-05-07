@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://YicunWendyWu.github.com/cnblog/sitemap.xml 
