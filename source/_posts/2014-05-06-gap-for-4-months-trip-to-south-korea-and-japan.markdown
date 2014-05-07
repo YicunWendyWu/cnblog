@@ -14,7 +14,7 @@ categories: Gap
 最欣赏的设计是韩国屏幕朝上的ATM，从此不用再担心信息被排在后面的人看到（矮子的困扰）。
 
 ###斑马线###
-还有一个很省心的设计是斑马线。韩国的斑马线大多数都跟汽车道一样有制定的方向。（需要看图片的请猛击[Organized crosswalks](http://www.johnnyjet.com/2012/10/seoul-korea-tour-guide/seoul-south-korea-sept-2012-007-3/)）从此不用再担心跟对面的人进入[活锁]状态(http://en.wikipedia.org/wiki/Live-lock#Livelock)。
+还有一个很省心的设计是斑马线。韩国的斑马线大多数都跟汽车道一样有制定的方向。（需要看图片的请猛击[Organized crosswalks](http://www.johnnyjet.com/2012/10/seoul-korea-tour-guide/seoul-south-korea-sept-2012-007-3/)）从此不用再担心跟对面的人进入[活锁](http://en.wikipedia.org/wiki/Live-lock#Livelock)状态）。
 
 ###鱼汤店###
 {% img right https://lh3.googleusercontent.com/-dP0ybruq_gs/UyW4QGy90aI/AAAAAAAAANw/Q14yMxFClYg/s0-I/IMG_20140208_100118.jpg 256 %}

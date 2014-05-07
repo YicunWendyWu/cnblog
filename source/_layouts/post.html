@@ -24,13 +24,7 @@ single: true
       {% endif %}
     </p>
   </footer>
-  </article>
-  {% if site.duoshuo_show_comment_count == true and page.comments == true %}
-<section id=”comment”>
-<h1>发表评论</h1>
-{% include post/duoshuo.html %}
-</section>
-{% endif %}
+</article>
 {% if site.disqus_short_name and page.comments == true %}
   <section>
     <h1>Comments</h1>
@@ -47,4 +41,3 @@ single: true
   {% endif %}
 </aside>
 {% endunless %}
-
