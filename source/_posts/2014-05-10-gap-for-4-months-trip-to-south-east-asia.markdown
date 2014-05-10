@@ -16,7 +16,8 @@ categories: Gap
 马来西亚的油价比较便宜，所以汽车很普遍。于是从酒店到国家博物馆的路上，我发现了这样一种神奇的现象：人行道也是顺着各种高架桥之类的建的。于是就有了高架上，汽车在离行人旁边10厘米呼啸而过的情景。
 
 ###情人节的抓手党###
-{% img right https://lh3.googleusercontent.com/-F49zSjGKNbA/UyW4qsqP-SI/AAAAAAAAAPQ/TUkjLv2UtIo/s0-I/IMG_20140214_082821.jpg 400 %} 
+{% img https://lh3.googleusercontent.com/-F49zSjGKNbA/UyW4qsqP-SI/AAAAAAAAAPQ/TUkjLv2UtIo/s0-I/IMG_20140214_082821.jpg 400 %} 
+
 这天刚好是情人节，在市场上吃了一顿惊艳的早餐后的我走在上槟榔山的路上，人行道突然跳出来一个衣着比较邋遢的人一把抓住我的手臂，于是我赶紧甩开并落荒而逃。去完槟榔山，打算去那著名的峇都丁宜沙滩放松一下消消惊，在地图上看着到了，而且刚好有人下车，于是我也跟着那个人下了公交车。低头查看地图间，那个人开始搭讪并有要抓手的趋势，于是我又是一阵落荒而逃。逃回到了乔治镇古城区，本想去槟城博物馆，结果误进了旁边的一个学校，并被看门老大爷询问，大概了解到一个女生出来旅游比较少见。于是我趁着天没黑回到了火车站，并在旁边的小吃店吃到了这次旅行最好吃的一顿炒饭，然后回到了候车厅喂蚊子，并被两个同要去吉隆坡的槟城大妈搭讪。
 
 这真是神奇的一天，荣登旅行中与人交流最多的一天榜榜首，槟城真热情。配图为在槟城看到的不知是否槟城人创意的招牌。
@@ -30,7 +31,8 @@ categories: Gap
 如果你在吴哥地区旅游，你会看到很多小女孩，对她们的感觉从一开始的可爱到后来的不厌其烦。在吴哥的每一个景点（对的，我没有夸张），从入口到出口都会有女孩子跟你推荐各种明信片，饮料，围巾等等。她们熟悉各个语言，从英语到中文，并且她们非常了解各种游客的心理（她们基本上是不会搭理我的，但是她们非常愿意跟从中国跟团来的大妈讲价，还会鼓励叔(tu)叔(hao)们给阿姨们买礼物）。
 
 ###天使们###
-{% img right https://lh4.googleusercontent.com/-fcWUARCEtDI/UyW7UHYCLvI/AAAAAAAAAZY/KmMCr8ZSFWA/s0-I/IMG_20140217_083029.jpg 512 %} 
+{% img https://lh4.googleusercontent.com/-fcWUARCEtDI/UyW7UHYCLvI/AAAAAAAAAZY/KmMCr8ZSFWA/s0-I/IMG_20140217_083029.jpg 512 %} 
+
 在柬埔寨，看到了两种为古迹默默奉献着的天使：穿蓝色衣服的修复者和穿绿色衣服的保洁人员。蓝色天使们把地上各种“乱石”（配图）按照编号重新搭建成它们原来的模样，绿衣天使们从没日出开始到日落以后都在打扫各个景点。
 
 ###高棉的棉###
@@ -40,17 +42,20 @@ categories: Gap
 在这里给不打算跟团的朋友推荐突突车出行：一路享受超越其它突突车的快感以及路上扬起的尘埃。
 
 ###高蛋白美食推荐###
-{% img right https://lh5.googleusercontent.com/-MARI3PEafRc/UyW7skg95EI/AAAAAAAAAao/gqRWHr4wBvM/s0-I/IMG_20140217_090418.jpg 256 %} 
+{% img https://lh5.googleusercontent.com/-MARI3PEafRc/UyW7skg95EI/AAAAAAAAAao/gqRWHr4wBvM/s0-I/IMG_20140217_090418.jpg 256 %} 
+
 某天在一家超市买了这样一个神奇的食物：蟑螂饼干。此饼干富含蛋白质，为参观吴哥各种寺庙间歇的首选。在此隆重推荐给大家。
 
 ###要去就趁早###
-{% img left https://lh3.googleusercontent.com/-c0HhMlRppXw/UyW6I9B20dI/AAAAAAAAAVQ/Wnh-GpiZ1UU/s0-I/IMG_20140217_060927.jpg 512 %} 
+{% img https://lh3.googleusercontent.com/-c0HhMlRppXw/UyW6I9B20dI/AAAAAAAAAVQ/Wnh-GpiZ1UU/s0-I/IMG_20140217_060927.jpg 800 %} 
+
 用一张吴哥寺日出长枪短炮图来说明。
 
 ##泰国##
 
 ###芒果糯米饭啊芒果糯米饭###
-{% img right https://lh5.googleusercontent.com/-LlriiNYvZVk/UyXADKljz2I/AAAAAAAAAmY/pKrNFDnuXMs/s0-I/IMG_20140222_174310.jpg 256 %} 
+{% img https://lh5.googleusercontent.com/-LlriiNYvZVk/UyXADKljz2I/AAAAAAAAAmY/pKrNFDnuXMs/s0-I/IMG_20140222_174310.jpg 256 %} 
+
 各位要去泰国的亲们一定要尝尝芒果糯米饭：此饭集极简主义，友好用户体验，用户群庞大之大成。
 
 ###清迈夜市###
