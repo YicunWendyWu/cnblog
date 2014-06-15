@@ -9,8 +9,8 @@
   <meta name="author" content="吴怡村">
 
   
-  <meta name="description" content="首先要感谢村上春树想出一个这么好用的标题类型，最近也开始跑步和早睡早起了，希望能学到他的意志力和拒绝诱惑的定力。 行前准备 攻略 其实以前经常在人人啊微博啊看到各种旅游攻略，并且很多都保存到了Pocket或者Evernote上,但是还是出现了“攻略用时方狠找不到”的情况，原因我觉得有几点
-* &hellip;">
+  <meta name="description" content="自从微信微信号推出以来，我的阅读源，尤其是新闻阅读源就从RSS转到了微信，详情可以参考我之前的博文我的中文网络阅读源和阅读推荐Vol. 2。公众号无疑给我来带了很多，随着我订阅的公众号数目的增多，我就发现了公众号阅读成为了痛点：
+* 阅读体验糟糕：点击标题之后，要等很久才能加载好链接， &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -78,6 +78,64 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/cnblog/blog/2014/06/15/why-wechatpocket/">微信公众号稍后读前传之为什么</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-06-15T10:01:04-04:00" pubdate data-updated="true">Jun 15<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>自从微信微信号推出以来，我的阅读源，尤其是新闻阅读源就从RSS转到了微信，详情可以参考我之前的博文<a href="http://yicunwendywu.github.io/cnblog/blog/2012/11/18/my-two-cents-on-chinese-internet-reading/">我的中文网络阅读源</a>和<a href="http://yicunwendywu.github.io/cnblog/blog/2013/04/28/reading-recommendations-vol-2/">阅读推荐Vol. 2</a>。公众号无疑给我来带了很多，随着我订阅的公众号数目的增多，我就发现了公众号阅读成为了痛点：
+* 阅读体验糟糕：点击标题之后，要等很久才能加载好链接，之后还要忍受在手机小屏幕上阅读长文，并且，公众号“侵占”了我跟朋友的对话，为了解决这个问题，我重新注册了一个微信账号，从此用平板上的微信专门用来订阅公众号，后来，微信也发现了问题，推出了公众号折叠的功能。
+* 不支持离线功能：由于我的阅读通常都发生在公共交通上，而我没有开通数据。为了解决这个问题，我每天都打开微信，把我感兴趣的文章复制链接，打开<a href="https://getpocket.com">Pocket</a>，同意把链接加入Pocket，再在公共交通上打开Pocket阅读文章。
+* 系统封闭之不支持分享到Pocket：本来加入Pocket的内容完全是可以通过安卓应用间分享完成的，由于缺乏这个功能，一个很简单的一步变成了让人抓狂的两步。
+* 系统封闭之内容不开放：通常微信上的内容，如果作者（或某侵权者）不把它放到微信之外，没有订阅的人是看不到的。这一点我觉得是极其短见的。</p>
+
+<p>于是下面给大家描述一下我痛苦的阅读流程：
+1. 打开微信，进入所有订阅号
+2. 打开某个有更新的公众号，并记住上面更新的数字（假设为n)
+3. 从最后一篇开始倒数，并同时按照从n到1的顺序查看标题
+4. 如果看到一篇感兴趣的题目，点击进入
+5. 页面加载完成之后，点击右上角的点点点，点击复制链接
+6. 用<a href="https://play.google.com/store/apps/details?id=globe.trotter.gesture.overlay">Navigation Layer</a>打开Pocket，在这非常感谢Navigation Layer啊，没有了你我就要点击Home键然后点击Pocket图标。（能完成这个功能的app还有<a href="https://play.google.com/store/apps/details?id=mobi.conduction.swipepad.android">SwipePad</a>，在此也表示非常感谢
+&ndash; 打开Pocket之后，Pocket会提示是否将链接加入列表，点击同意
+&ndash; 按返回键返回微信
+&ndash; 按返回键返回订阅号的文章列表，并回想起之前的倒数（假设为m)
+&ndash; 从这篇开始继续倒数，按照从m到1的顺序查看标题并从第四步开始重复</p>
+
+<p>这个流程对于习惯了我在RSS浏览器中Next Page键不断的我来说，简直就是反人类。</p>
+
+<p>2014年6月8日，我发布了解决我另一痛点的<a href="https://rsspocket.parseapp.com/">RSS Subscriber</a>，不久后搜狗公众号搜索推出了，看到这个极好的机会，我在RSS Subscriber代码的基础上进行了快速的修改，终于在6月12日发布了<a href="http://wechatpocket.herokuapp.com">微信公众号稍后读</a>，从此我的公众号订阅微信号就退休了，我的心情也从此舒畅了很多。（当然了，目前还要追捕不少bug。）</p>
+
+<p>在此再一次欢迎大家，尤其是使用微信公众号的大家来使用<a href="http://wechatpocket.herokuapp.com">微信公众号稍后读</a>，因为我真心希望这个app可以帮助更多人把时间花在阅读而不是在点击操作上，让阅读成为一种习惯而不是一种负担。同时我也非常欢迎大家的各种反馈。</p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -887,309 +945,9 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/cnblog/blog/2012/11/18/my-two-cents-on-chinese-internet-reading/">我的中文网络阅读源</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-11-18T09:56:00-05:00" pubdate data-updated="true">Nov 18<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>被Edwin同学问到这个问题，刚好我这三个月一个人住，每天都有大把的上网搜刮各种资讯，跟自己对话的时间，所以想在这里分享一下我的中文网络阅读源.</p>
-
-<h2>微信公众平台</h2>
-
-<p>生活在西八区有一个很大的好处就是，每天起床，打开微信，就能看到很精彩的资讯总结和各种大牛写出来的对最近事件的独特见解。个人觉得微信的公众平台是一个中短阅读（相较于微博的短阅读）精选地。</p>
-
-<p>我关注的号有：</p>
-
-<ul>
-<li>爱范儿 （<a href="http://cdn.ifanr.cn/wp-content/uploads/2012/08/weixin1.png">二维码图片</a>）</li>
-<li>程苓峰-云科技（观点犀利，特别推荐，<a href="http://www.yunkeji.com/wp-content/uploads/2012/11/yunkeji3.jpg">二维码图片</a>)</li>
-<li>36氪 （<a href="http://img05.36krcnd.com/wp-content/uploads/krads-images/36kr-weixin.jpg">二维码图片</a>）</li>
-<li>warfalcon （<a href="http://ww4.sinaimg.cn/thumbnail/6ffbe425jw1dyx04hgsjyj.jpg">二维码图片</a> (关于阅读，学习方法的分享））</li>
-<li>小道消息（微信号：WebNotes）（丁香园创始人，前支付宝架构师）</li>
-</ul>
-
-
-<h2>RSS</h2>
-
-<h3>不要因为不知道XX有什么用而拒绝学习。学习其实是一件特美好的事情。</h3>
-
-<blockquote><p>如果你曾经有过最终习得某种技能的经验,就知道在习得的那一瞬间,整个世界都会为之而变。或者换一个说法,因为你有能力做更多的事情了,你就不再存在于原本的世界里;因为你所习得的技能,你已经拥有另一个完全不同的世界。比如,你最终可以熟练使用一门外语,你原本生存的世界就多了一扇门,跨过那个门槛就是另外一个世界—这种情况下,再用另外一个说法就是,你比另外一些只能讲母语的人多拥有一个世界。痴迷于学习的人,正是基于这样的体会。每次掌握了一门新的技能(是否足够精通,或者是否比别人强实际上根本不重要),就感觉自己重生一次—如此看来,其实人一生原本可以有很多辈子的,只不过是大多数人放弃了而已。很多年前当我学会了BASIC编程语言,我当时并不知道它会给我这一生带来无穷的好处,甚至不知道自己已经脱胎换骨;当我学会了当众演讲,世界就变了,就算是脱胎换骨了;当我真正学会了如何教书,我才发现我已经身处另外一个世界,我早已重生无数回。<cite>李笑来，<a href="https://code.google.com/p/befriend-with-time/downloads/">把时间当作朋友</a></cite></p></blockquote>
-
-<p>我也是个懒人，经常在学习曲线上慢慢攀爬甚至还没有开始攀爬的时候有放弃的念头，但人总得迈出那一步。在我各种推荐<a href="http://rssgen.sharingmadeeasy.com">新浪微博RSS生成工具</a>的过程中，我发现有人会因为不知道RSS是什么，不知道RSS有什么用就拒绝学习。对我来说，RSS就好像信息海洋中的一艘船，在没有它之前，我一直都只在游泳。</p>
-
-<h3>互联网，APP，创业信息</h3>
-
-<ul>
-<li><a href="http://www.36kr.com">36氪</a>
-
-<ul>
-<li><a href="http://www.36kr.com/feed">feed</a></li>
-</ul>
-</li>
-<li><a href="http://tech2ipo.com/">Tech2IPO</a>
-
-<ul>
-<li><a href="http://tech2ipo.com/feed/">feed</a></li>
-</ul>
-</li>
-<li><a href="http://www.techwom.com/">科技娲母</a>
-
-<ul>
-<li><a href="http://www.techwom.com/rss">feed</a></li>
-</ul>
-</li>
-<li><a href="http://www.aqee.net/">外刊IT评论</a>
-
-<ul>
-<li><a href="http://feed.feedsky.com/aqee-net">feed</a></li>
-</ul>
-</li>
-<li><a href="http://www.bukop.com/">商业不靠谱</a>
-
-<ul>
-<li><a href="http://feed.feedsky.com/bukop">feed</a></li>
-</ul>
-</li>
-<li><a href="http://coolshell.cn/">酷壳</a>
-
-<ul>
-<li><a href="http://coolshell.cn/feed">feed</a></li>
-</ul>
-</li>
-</ul>
-
-
-<p>我很少看英文的这类网站，因为我发现这个领域太火了，一般好的文章，通常都会在1天以内被翻译成中文，而我的中文阅读速度比较块。以上是我比较推荐的，如果觉得还不够可以到<a href="http://www.wumii.com/">无觅</a>自行寻找或者PM我</p>
-
-<h3>CS业内人士</h3>
-
-<ul>
-<li><a href="http://www.ruanyifeng.com/blog/">阮一峰的网络日志</a> 这是我个人最喜欢的技术博客。经常有干货，文风简洁。
-
-<ul>
-<li><a href="http://www.ruanyifeng.com/feed.html">feed</a></li>
-</ul>
-</li>
-<li><a href="http://www.dbanotes.net/">DBA Notes</a> 之前推荐的微信小道消息
-
-<ul>
-<li><a href="http://www.dbanotes.net/index.xml">feed</a></li>
-</ul>
-</li>
-<li><a href="http://ucdchina.com/baiya/">白鸦，以用户为中心的设计</a> 对用户体验有见解
-
-<ul>
-<li><a href="http://ucdchina.com/baiya/?feed=rss2">feed</a></li>
-</ul>
-</li>
-<li><a href="http://mindhacks.cn/">刘未鹏  MIND HACKS</a> 《暗时间》作者，经常有干货
-
-<ul>
-<li><a href="http://mindhacks.cn/feed/">feed</a></li>
-</ul>
-</li>
-<li><a href="http://weiwuhui.com/">It Talks–上海魏武挥的博客</a>  读书，思考多
-
-<ul>
-<li><a href="http://feeds2.feedburner.com/ItTalks">feed</a></li>
-</ul>
-</li>
-<li><a href="http://www.cnblogs.com/chijianqiang/">Sagacity——池建强的BLOG</a>  干货多
-
-<ul>
-<li><a href="http://www.cnblogs.com/chijianqiang/rss">feed</a></li>
-</ul>
-</li>
-<li><a href="http://www.williamlong.info/">月光博客</a>  经典
-
-<ul>
-<li><a href="http://feed.williamlong.info/">feed</a></li>
-</ul>
-</li>
-<li><a href="http://tiny4.org/blog/">Tinyfool的Blog</a>
-
-<ul>
-<li><a href="http://tiny4.org/blog/feed/">feed</a></li>
-</ul>
-</li>
-</ul>
-
-
-<p>我发现CS博客人士其实写作能力都是很强的，而且都很乐于分享。能读到这些技术牛人们的分享是一件很幸福的事</p>
-
-<h3>综合，学习类(i.e. 没有那么技术性)</h3>
-
-<ul>
-<li><a href="http://www.dushumashang.com/">读书马上</a>  长文阅读推荐
-
-<ul>
-<li><a href="http://www.dushumashang.com/feed">feed</a></li>
-</ul>
-</li>
-<li><a href="http://www.apple4.cn/">惜墨</a>
-
-<ul>
-<li><a href="http://feed.feedsky.com/apple4">feed</a></li>
-</ul>
-</li>
-<li><a href="http://www.read.org.cn/">战隼的学习探索</a>
-
-<ul>
-<li><a href="http://www.read.org.cn/feed">feed</a></li>
-</ul>
-</li>
-<li><a href="http://www.write.org.cn/">读书笔记</a>
-
-<ul>
-<li><a href="http://www.write.org.cn/feed">feed</a></li>
-</ul>
-</li>
-<li><a href="http://www.yeeyan.org/">译言</a></li>
-<li><a href="http://lixiaolai.com/">{am}xiaola</a>
-
-<ul>
-<li><a href="http://lixiaolai.com/atom.xml">feed</a></li>
-</ul>
-</li>
-<li><a href="http://www.yangzhiping.com/psy/">阳志平的个人网站</a>
-
-<ul>
-<li><a href="http://www.yangzhiping.com/feed">feed</a></li>
-</ul>
-</li>
-<li><a href="http://www.r-d-x.org/">读哲学的技术宅</a>
-
-<ul>
-<li><a href="http://www.r-d-x.org/feed">feed</a></li>
-</ul>
-</li>
-<li><a href="http://ibeidou.net/">北斗</a>
-
-<ul>
-<li><a href="http://www.ibeidou.net/?feed=rss2">feed</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h3>励志（或者说是Inspiring people with interesting experience)</h3>
-
-<ul>
-<li><a href="http://blog.sina.com.cn/u/1854801324">奶牛Denny</a>从沃顿商学院到连客
-
-<ul>
-<li><a href="http://blog.sina.com.cn/rss/1854801324.xml">feed</a></li>
-</ul>
-</li>
-<li><a href="http://blog.sina.com.cn/loveandpeacejoy">考拉小巫居~~</a>  从字幕组组长到社工
-
-<ul>
-<li><a href="http://blog.sina.com.cn/rss/1229448154.xml">feed</a></li>
-</ul>
-</li>
-<li><a href="http://blog.sina.com.cn/u/1528394563">85后：一直特立独行的猫</a> 台湾旅游
-
-<ul>
-<li><a href="http://blog.sina.com.cn/rss/1528394563.xml">feed</a></li>
-</ul>
-</li>
-<li><a href="http://blog.sina.com.cn/yingpeng332">我的黒纱裙</a>  很有创意
-
-<ul>
-<li><a href="http://blog.sina.com.cn/yingpeng332">feed</a></li>
-</ul>
-</li>
-</ul>
-
-
-<p>每一类如果想深入的话，相关的友情链接通常是很好的指针</p>
-
-<h2>人人</h2>
-
-<p>人人上阅读比较麻烦之处在于日志传播不容易。很多时候，如果跟作者不是好友的话，只能通过分享偶尔得到好文，而不是像普通博客那样直接订阅就好了。通常，如果我遇到一篇特别喜欢的日志，我就只能厚着脸皮去加好友，下面都是我成功添加到的，他们的日志，分享都很好。有兴趣的不妨也加他们试试</p>
-
-<ul>
-<li><a href="http://www.renren.com/profile.do?id=242082784">艾伦</a></li>
-<li><a href="http://www.renren.com/profile.do?id=190725510">王娟娟</a></li>
-<li><a href="http://www.renren.com/profile.do?id=239311155">吴书云 Conan</a></li>
-</ul>
-
-
-<h2>微博</h2>
-
-<p>微博相对于人人的好处就是他的开放性，（广告强势插入：有了<a href="http://rssgen.sharingmadeeasy.com">新浪微博RSS生成工具</a>就更加开放和容易订阅了。）</p>
-
-<p>微博可以算是了解各种大小事的好途径，但最好能控制好自己，不要掉入信息碎片深渊。最近已经越来越不喜欢读微博了，因为每次一打开就觉得碎片迎面而来，恨不得立刻关闭</p>
-
-<ul>
-<li><a href="http://www.weibo.com/rebol">蔡学镛</a> 创新工厂首席布道师，是我个人最喜欢的微博，有技术含量又不失风趣
-
-<ul>
-<li><a href="http://rssgen.sharingmadeeasy.com/sinarss.php?username=rebol">feed</a></li>
-</ul>
-</li>
-<li><a href="http://weibo.com/kaifulee">李开复</a>  某些新观点还好，但是还是觉得太多重复了，经常一件事情重复来重复去
-
-<ul>
-<li><a href="http://rssgen.sharingmadeeasy.com/sinarss.php?username=kaifulee">feed</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>知乎</h2>
-
-<p>推荐订阅它家的每周邮件精选。网站设计得不错，特别容易逛。</p>
-
-<h2>近期推荐阅读</h2>
-
-<p>下面是一些最近读了特别喜欢的文章</p>
-
-<ul>
-<li><a href="http://www.hecaitou.net/?p=7273">和菜头：碎片化生存</a> 对现在的阅读文化很好的反思</li>
-<li><a href="www.36kr.com/p/168454.html">陈小蒙：中国为什么出不了可汗学院/Coursera ?</a> 看了Khan的TED talk再看这篇文章更加共鸣</li>
-<li><a href="http://www.cnblogs.com/vamei/archive/2012/11/17/2774208.html">Vamei:为什么要写技术博</a> 我决定开始写博客的一部分原因</li>
-<li><a href="http://article.yeeyan.org/view/364282/331312">Matt Swanson：Don&rsquo;t Have Time “我没有时间”</a> 梦想可以从闲暇时间中实现</li>
-<li><a href="http://www.36kr.com/p/170630.html">陈小蒙：我眼中的四叶新媒体</a> 让人羡慕的团队</li>
-</ul>
-
-
-<h2>其它</h2>
-
-<p>读很容易，最困难的是独立思考。</p>
-
-<p>有些比较敏感的就不发这里（我不想第一篇博文就被墙。想要的同学欢迎联系我）</p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
+    
+      <a class="prev" href="/cnblog/blog/page/2/">&larr; Older</a>
     
     <a href="/cnblog/blog/archives">Blog Archives</a>
     
@@ -1200,6 +958,10 @@
     <section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/cnblog/blog/2014/06/15/why-wechatpocket/">微信公众号稍后读前传之为什么</a>
+      </li>
     
       <li class="post">
         <a href="/cnblog/blog/2014/05/10/gap-for-4-months-apps-for-travel/">Gap的四个月之当我谈旅游时</a>
@@ -1217,10 +979,6 @@
         <a href="/cnblog/blog/2014/05/06/gap-for-4-months-trip-to-south-korea-and-japan/">Gap的四个月之韩日之行</a>
       </li>
     
-      <li class="post">
-        <a href="/cnblog/blog/2014/05/06/gap-for-4-months-rediscover-myself/">Gap的四个月之曾经的上进青年</a>
-      </li>
-    
   </ul>
 </section>
 
@@ -1231,8 +989,10 @@
 <section>
   <h1>About Me</h1>
   <p>RSS控</p>
-  <p><a href="http://rssgen.sharingmadeeasy.com">个人项目: 新浪微博RSS生成工具</a></p>
-  <p>Email: wuyicun at hotmail.com</p>
+  <p><a href="http://wechatpocket.herokuapp.com">个人项目: 微信公众号稍后读</a></p>
+  <p><a href="http://rsspocket.parseapp.com">个人项目: RSS Subscriber</a></p>
+  <p><a href="http://www.github.com/YicunWendyWu">github</a></p>
+  <p><a href="http://www.weibo.com/wuyicun">微博</a></p>
 </section>
 
   
